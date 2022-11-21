@@ -4,4 +4,4 @@
  Develop/maintain/debug python code using IDE like Jupyter notebooks etc 
  Proficient in SQL and database design/maintenance ie indexing and backups etc 
  Experience with developing ASP.net based REST APIs 
-PING ME, DM ON LINKEDIN: https://www.linkedin.com/in/sbtalent/
+PING ME, staci@entegraenterprises.com DM ON LINKEDIN: https://www.linkedin.com/in/sbtalent/
